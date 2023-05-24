@@ -1,0 +1,647 @@
+{
+  "maincategory": [
+    {
+      "name": "Male",
+      "id": 1
+    },
+    {
+      "name": "Female",
+      "id": 2
+    },
+    {
+      "name": "Kids",
+      "id": 3
+    }
+  ],
+  "subcategory": [
+    {
+      "name": "Jeans",
+      "id": 1
+    },
+    {
+      "name": "T Shirt",
+      "id": 2
+    },
+    {
+      "name": "Shirt",
+      "id": 3
+    },
+    {
+      "name": "Touser",
+      "id": 4
+    }
+  ],
+  "brand": [
+    {
+      "name": "Mufti",
+      "id": 1
+    },
+    {
+      "name": "Tommy Hilfiger",
+      "id": 2
+    },
+    {
+      "name": "Gucci",
+      "id": 3
+    },
+    {
+      "name": "Adidas",
+      "id": 4
+    },
+    {
+      "name": "Nike",
+      "id": 5
+    },
+    {
+      "name": "Zara",
+      "id": 6
+    },
+    {
+      "name": "Polo",
+      "id": 7
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "Man T Shirt Tommy Hilfiger",
+      "maincategory": "Male",
+      "subcategory": "T Shirt",
+      "brand": "Tommy Hilfiger",
+      "color": "White",
+      "size": "L",
+      "baseprice": 7890,
+      "discount": 40,
+      "finalprice": 4734,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p2.jpg",
+      "pic2": "p10.jpg",
+      "pic3": "p8.jpg",
+      "pic4": "p18.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Man Jeans Mufti Slim",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "Black",
+      "size": "32",
+      "baseprice": 6360,
+      "discount": 75,
+      "finalprice": 1590,
+      "stock": "Out of Stock",
+      "description": "This is Sample Product",
+      "pic1": "p1.jpg",
+      "pic2": "p9.jpg",
+      "pic3": "p7.jpg",
+      "pic4": "p12.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Female T shirt Adidas Fit",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Adidas",
+      "color": "White",
+      "size": "MD",
+      "baseprice": 3900,
+      "discount": 40,
+      "finalprice": 2340,
+      "stock": "Out of Stock",
+      "description": "This is Sample Product",
+      "pic1": "p3.jpg",
+      "pic2": "p29.jpg",
+      "pic3": "p4.jpg",
+      "pic4": "p30.jpg"
+    },
+    {
+      "name": "Man Jeans Addidas",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Adidas",
+      "color": "Black",
+      "size": "32",
+      "baseprice": 3600,
+      "discount": 50,
+      "finalprice": 1800,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p1.jpg",
+      "pic2": "p9.jpg",
+      "pic3": "p12.jpg",
+      "pic4": "p6.jpg",
+      "id": 5
+    },
+    {
+      "name": "Man T-Shirt Nike",
+      "maincategory": "Male",
+      "subcategory": "T Shirt",
+      "brand": "Nike",
+      "color": "Black",
+      "size": "L",
+      "baseprice": 4560,
+      "discount": 70,
+      "finalprice": 1368,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p17.jpg",
+      "pic2": "p16.jpg",
+      "pic3": "p13.jpg",
+      "pic4": "p14.jpg",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "Female Jeans Mufti Slim",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "Blue",
+      "size": "34",
+      "baseprice": 7890,
+      "discount": 70,
+      "finalprice": 2367,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p29.jpg",
+      "pic2": "p19.jpg",
+      "pic3": "p35.jpg",
+      "pic4": "p29.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Female T shirt White Adidas",
+      "maincategory": "Female",
+      "subcategory": "T Shirt",
+      "brand": "Adidas",
+      "color": "White",
+      "size": "SM",
+      "baseprice": 4560,
+      "discount": 40,
+      "finalprice": 2736,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p3.jpg",
+      "pic2": "p22.jpg",
+      "pic3": "p34.jpg",
+      "pic4": "p25.jpg"
+    },
+    {
+      "name": "Kids Tshirt Blue Polo",
+      "maincategory": "Kids",
+      "subcategory": "Jeans",
+      "brand": "Polo",
+      "color": "Blue",
+      "size": "MD",
+      "baseprice": 6360,
+      "discount": 50,
+      "finalprice": 3180,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p47.jpg",
+      "pic2": "p45.jpg",
+      "pic3": "p11.jpg",
+      "pic4": "p41.jpg",
+      "id": 9
+    },
+    {
+      "name": "Female Trouser Black",
+      "maincategory": "Female",
+      "subcategory": "Touser",
+      "brand": "Zara",
+      "color": "Black",
+      "size": "32",
+      "baseprice": 4560,
+      "discount": 60,
+      "finalprice": 1824,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p43.jpg",
+      "pic2": "p18.jpg",
+      "pic3": "p34.jpg",
+      "pic4": "p30.jpg",
+      "id": 10
+    },
+    {
+      "id": 11,
+      "name": "Female jeans Ripped ",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Tommy Hilfiger",
+      "color": "Blue",
+      "size": "32",
+      "baseprice": 4789,
+      "discount": 45,
+      "finalprice": 2633,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p35.jpg",
+      "pic2": "p20.jpg",
+      "pic3": "p18.jpg",
+      "pic4": "p29.jpg"
+    },
+    {
+      "name": "Male T shirt White Polo",
+      "maincategory": "Male",
+      "subcategory": "T Shirt",
+      "brand": "Polo",
+      "color": "White",
+      "size": "LG",
+      "baseprice": 7890,
+      "discount": 20,
+      "finalprice": 6312,
+      "stock": "Out of Stock",
+      "description": "This is Sample Product",
+      "pic1": "p10.jpg",
+      "pic2": "p44.jpg",
+      "pic3": "p48.jpg",
+      "pic4": "p46.jpg",
+      "id": 12
+    },
+    {
+      "id": 13,
+      "name": "Male Gucci T shirt ",
+      "maincategory": "Male",
+      "subcategory": "T Shirt",
+      "brand": "Gucci",
+      "color": "black",
+      "size": "LG",
+      "baseprice": 4520,
+      "discount": 35,
+      "finalprice": 2938,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p17.jpg",
+      "pic2": "p16.jpg",
+      "pic3": "p10.jpg",
+      "pic4": "p42.jpg"
+    },
+    {
+      "name": "Kid T shirt  Adidas Fit",
+      "maincategory": "Kids",
+      "subcategory": "T Shirt",
+      "brand": "Adidas",
+      "color": "Blue",
+      "size": "M",
+      "baseprice": 4562,
+      "discount": 25,
+      "finalprice": 3421,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p47.jpg",
+      "pic2": "p11.jpg",
+      "pic3": "p31.jpg",
+      "pic4": "p51.jpg",
+      "id": 14
+    },
+    {
+      "name": "Male Shirt",
+      "maincategory": "Male",
+      "subcategory": "Shirt",
+      "brand": "Gucci",
+      "color": "red",
+      "size": "L",
+      "baseprice": 1450,
+      "discount": 40,
+      "finalprice": 870,
+      "stock": "Out of Stock",
+      "description": "This is Sample Product",
+      "pic1": "p8.jpg",
+      "pic2": "p49.jpg",
+      "pic3": "p2.jpg",
+      "pic4": "p15.jpg",
+      "id": 16
+    },
+    {
+      "id": 17,
+      "name": "Female T Shirt Gucci",
+      "maincategory": "Female",
+      "subcategory": "T Shirt",
+      "brand": "Gucci",
+      "color": "White",
+      "size": "MD",
+      "baseprice": 9000,
+      "discount": 10,
+      "finalprice": 8100,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p3.jpg",
+      "pic2": "p24.jpg",
+      "pic3": "p25.jpg",
+      "pic4": "p53.jpg"
+    },
+    {
+      "name": "Male Jeans Zara",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Zara",
+      "color": "Blue",
+      "size": "40",
+      "baseprice": 1500,
+      "discount": 50,
+      "finalprice": 750,
+      "stock": "Out of Stock",
+      "description": "This is Sample Product",
+      "pic1": "p9.jpg",
+      "pic2": "p5.jpg",
+      "pic3": "p1.jpg",
+      "pic4": "p32.jpg",
+      "id": 18
+    },
+    {
+      "name": "Female T Shirt Gucci",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Gucci",
+      "color": "Blue",
+      "size": "SM",
+      "baseprice": 8500,
+      "discount": 50,
+      "finalprice": 4250,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p4.jpg",
+      "pic2": "p18.jpg",
+      "pic3": "p30.jpg",
+      "pic4": "p29.jpg",
+      "id": 19
+    },
+    {
+      "name": "Female T Shirt Gucci",
+      "maincategory": "Female",
+      "subcategory": "T Shirt",
+      "brand": "Zara",
+      "color": "red",
+      "size": "40",
+      "baseprice": 1400,
+      "discount": 10,
+      "finalprice": 1260,
+      "stock": "Out of Stock",
+      "description": "This is Sample Product",
+      "pic1": "p4.jpg",
+      "pic2": "p30.jpg",
+      "pic3": "p48.jpg",
+      "pic4": "p56.jpg",
+      "id": 20
+    }
+  ],
+  "user": [
+    {
+      "id": 4,
+      "name": "Ranjeet Singh",
+      "username": "Ranjeet",
+      "email": "ranjeetkumar95686824@gmail.com",
+      "phone": "9520647927",
+      "password": "Kumar@123",
+      "addressline1": "House Number 5",
+      "addressline2": "Near By  Gali No. 1",
+      "addressline3": "village xyz",
+      "pin": "21350",
+      "city": "Noida",
+      "state": "U.P",
+      "pic": "p8.jpg",
+      "role": "User"
+    },
+    {
+      "name": "Ranjeet Kumar",
+      "username": "ranjeet",
+      "email": "ranjeetkumar95686824@gmail.com",
+      "phone": "",
+      "password": "Kumar@123",
+      "addressline1": "",
+      "addressline2": "",
+      "addressline3": "",
+      "pin": "",
+      "city": "",
+      "state": "",
+      "pic": "",
+      "role": "Admin",
+      "id": 5
+    }
+  ],
+  "cart": [],
+  "wishlist": [
+    {
+      "id": 0
+    },
+    {
+      "productid": 3,
+      "userid": null,
+      "name": "Female T shirt Adidas Fit",
+      "color": "White",
+      "size": "MD",
+      "price": 2340,
+      "pic": "p3.jpg",
+      "id": 3
+    },
+    {
+      "productid": 2,
+      "userid": "3",
+      "name": "Man Jeans Mufti Slim",
+      "color": "Black",
+      "size": "32",
+      "price": 1590,
+      "pic": "p1.jpg",
+      "id": 4
+    },
+    {
+      "productid": 3,
+      "userid": "3",
+      "name": "Female T shirt Adidas Fit",
+      "color": "White",
+      "size": "MD",
+      "price": 2340,
+      "pic": "p3.jpg",
+      "id": 5
+    },
+    {
+      "productid": 2,
+      "userid": "4",
+      "name": "Man Jeans Mufti Slim",
+      "color": "Black",
+      "size": "32",
+      "price": 1590,
+      "pic": "p1.jpg",
+      "id": 6
+    }
+  ],
+  "checkout": [
+    {
+      "userid": "3",
+      "paymentmode": "COD",
+      "paymentstatus": "Done",
+      "time": "2023-04-23T11:13:17.449Z",
+      "totalAmount": 6102,
+      "shippingAmount": 0,
+      "finalAmount": 6102,
+      "products": [
+        {
+          "productid": 1,
+          "userid": "3",
+          "name": "Man T Shirt Tommy Hilfiger",
+          "color": "White",
+          "size": "L",
+          "price": 4734,
+          "qty": 1,
+          "total": 4734,
+          "pic": "p2.jpg",
+          "id": 1
+        },
+        {
+          "productid": 6,
+          "userid": "3",
+          "name": "Man T-Shirt Nike",
+          "color": "Black",
+          "size": "L",
+          "price": 1368,
+          "qty": 1,
+          "total": 1368,
+          "pic": "p17.jpg",
+          "id": 2
+        }
+      ],
+      "id": 1,
+      "orderstatus": "Delivered"
+    },
+    {
+      "userid": "3",
+      "paymentmode": "COD",
+      "orderstatus": "Delivered",
+      "paymentstatus": "Done",
+      "time": "2023-04-26T07:08:28.039Z",
+      "totalAmount": 1590,
+      "shippingAmount": 0,
+      "finalAmount": 1590,
+      "products": [
+        {
+          "productid": 2,
+          "userid": "3",
+          "name": "Man Jeans Mufti Slim",
+          "color": "Black",
+          "size": "32",
+          "price": 1590,
+          "qty": 1,
+          "total": 1590,
+          "pic": "p1.jpg",
+          "id": 1
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userid": "4",
+      "paymentmode": "COD",
+      "orderstatus": "Order Placed",
+      "paymentstatus": "Pending",
+      "time": "2023-04-26T08:29:17.139Z",
+      "totalAmount": 4734,
+      "shippingAmount": 0,
+      "finalAmount": 4734,
+      "products": [
+        {
+          "productid": 1,
+          "userid": "4",
+          "name": "Man T Shirt Tommy Hilfiger",
+          "color": "White",
+          "size": "L",
+          "price": 4734,
+          "qty": 1,
+          "total": 4734,
+          "pic": "p2.jpg",
+          "id": 1
+        }
+      ],
+      "id": 3
+    },
+    {
+      "userid": "4",
+      "paymentmode": "COD",
+      "orderstatus": "Ready to Ship",
+      "paymentstatus": "Pending",
+      "time": "2023-04-26T08:29:47.266Z",
+      "totalAmount": 1590,
+      "shippingAmount": 0,
+      "finalAmount": 1590,
+      "products": [
+        {
+          "productid": 2,
+          "userid": "4",
+          "name": "Man Jeans Mufti Slim",
+          "color": "Black",
+          "size": "32",
+          "price": 1590,
+          "qty": 1,
+          "total": 1590,
+          "pic": "p1.jpg",
+          "id": 1
+        }
+      ],
+      "id": 4
+    },
+    {
+      "userid": "4",
+      "paymentmode": "COD",
+      "orderstatus": "Order Placed",
+      "paymentstatus": "Pending",
+      "time": "2023-05-24T09:21:03.297Z",
+      "totalAmount": 1590,
+      "shippingAmount": 0,
+      "finalAmount": 1590,
+      "products": [
+        {
+          "productid": 2,
+          "userid": "4",
+          "name": "Man Jeans Mufti Slim",
+          "color": "Black",
+          "size": "32",
+          "price": 1590,
+          "qty": 1,
+          "total": 1590,
+          "pic": "p1.jpg",
+          "id": 1
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "contact": [
+    {
+      "name": "Ranjeet Kumar",
+      "email": "ranjeetkumar95686824@gmail.com",
+      "phone": "9520647927",
+      "subject": "Test",
+      "message": "dchjdfjfhfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffsssssssssssssssssssssssssssssssssssssssssssssssssssss",
+      "status": "Active",
+      "time": "2023-04-26T10:08:57.002Z",
+      "id": 11
+    },
+    {
+      "name": "Ranjeet Kumar",
+      "email": "ranjeetkumar95686824@gmail.com",
+      "phone": "9520647927",
+      "subject": "Test",
+      "message": "dchjdfjfhfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffsssssssssssssssssssssssssssssssssssssssssssssssssssss",
+      "status": "Active",
+      "time": "2023-04-26T10:08:57.202Z",
+      "id": 12
+    },
+    {
+      "name": "Ranjeet Kumar",
+      "email": "ranjeetkumar95686824@gmail.com",
+      "phone": "9520647927",
+      "subject": "Test",
+      "message": "dchjdfjfhfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffsssssssssssssssssssssssssssssssssssssssssssssssssssss",
+      "status": "Active",
+      "time": "2023-04-26T10:08:57.392Z",
+      "id": 13
+    }
+  ],
+  "newslatter": [
+    {
+      "email": "ranjeetkumar95686824@gmail.com",
+      "id": 1
+    }
+  ]
+}
